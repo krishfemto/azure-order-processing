@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "AzureWebJobsStorage": "<your-storage-connection-string>",
+    "ServiceBusConnection": "<your-servicebus-connection-string>",
+    "OrdersContainer": "orders"
+  }
+}
